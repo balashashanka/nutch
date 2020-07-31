@@ -1,5 +1,6 @@
 # Nutch Change Log
 
+
 Nutch 1.18 Development
 
 Breaking Changes
